@@ -10,6 +10,9 @@
 5. [Limitations - OS compatibility, etc.](#limitations)
 6. [Development - Guide for contributing to the module](#development)
 
+##Warning
+This module is provided as an emergency customer hotfix.  Do not use unless instructed to do so
+
 ##Overview
 
 This module provides management of Ruby gems for both PE and FOSS Puppet Server. It supercedes the deprecated pe_puppetserver_gem.
